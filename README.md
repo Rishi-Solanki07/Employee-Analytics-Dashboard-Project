@@ -4,11 +4,11 @@
 emphasizing data-driven decision-making in HR strategies.**
 
 # Project Goals
-**Dynamic Dashboard: The heart of the project is a dynamic Power BI dashboard that visually represents key employee metrics, facilitating a deeper understanding of department-wise trends.**
+**Dynamic Dashboard:** The heart of the project is a dynamic Power BI dashboard that visually represents key employee metrics, facilitating a deeper understanding of department-wise trends.
 
-**Data Source: The dataset is hosted on Google Sheets, providing real-time updates for seamless integration with Power BI.**
+**Data Source:** The dataset is hosted on Google Sheets, providing real-time updates for seamless integration with Power BI.
 
-**Insights: Uncover patterns and trends related to attrition, salary distribution, job satisfaction, and more.**
+**Insights:** Uncover patterns and trends related to attrition, salary distribution, job satisfaction, and more.
 
 # Key Features
 **Power Query for Data Cleaning:** Utilized Power Query to clean and structure the dataset, ensuring accurate and reliable insights.
