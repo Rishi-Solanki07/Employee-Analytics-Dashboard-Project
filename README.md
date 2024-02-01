@@ -34,6 +34,9 @@ emphasizing data-driven decision-making in HR strategies.**
 To run the project locally, follow these steps:
 
 Clone the repository.
+
 Download the dataset from the provided Google Sheets link.
+
 Open the Power BI file.
+
 Refresh data connections to sync with the latest dataset
