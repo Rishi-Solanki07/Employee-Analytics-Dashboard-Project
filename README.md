@@ -24,11 +24,11 @@ emphasizing data-driven decision-making in HR strategies.**
 **Visualizations:** Utilized a variety of visualizations including donut charts, bar graphs, column charts, box charts, and tables to present insights in a comprehensive manner.
 
 # Accessing Project Resources
-**Dataset:** Access the live dataset [here](insert Google Sheets link).
+**Dataset:** Access the live dataset [here](https://drive.google.com/file/d/19TfLHNq-i3fpE7Mloc0ff_iPVFHCVl4Q/view?usp=sharing).
 
-**Dashboard PDF:** View the static dashboard snapshot in PDF format [here](insert PDF link).
+**Dashboard PDF:** View the static dashboard snapshot in PDF format [here](https://drive.google.com/file/d/1go0EEos--RoePJKyXpCBU2aD96xtQ0dV/view?usp=sharing).
 
-**Dynamic Dashboard:** Explore the dynamic Power BI dashboard [here](insert Power BI Service link).
+**Dynamic Dashboard:** Explore the dynamic Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/4bd31721-fbf8-4841-ba3b-f8d87685776e?ctid=d0583313-b4e4-405d-8e24-38d981ac10cf&pbi_source=linkShare).
 
 # Instructions for Local Setup
 To run the project locally, follow these steps:
