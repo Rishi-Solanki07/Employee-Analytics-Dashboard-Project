@@ -11,24 +11,13 @@ emphasizing data-driven decision-making in HR strategies.**
 **Insights: Uncover patterns and trends related to attrition, salary distribution, job satisfaction, and more.**
 
 # Key Features
-**Power Query for Data Cleaning:**
+**Power Query for Data Cleaning:** Utilized Power Query to clean and structure the dataset, ensuring accurate and reliable insights.
 
-Utilized Power Query to clean and structure the dataset, ensuring accurate and reliable insights.
-**Remove Duplicate Entries:**
-
-Identified and removed duplicate entries to maintain data integrity.
-**Create Additional Tables:**
-
-Developed an 'Attrition_Count' table to better analyze attrition rates based on various parameters.
-**Dynamic KPIs:**
-
-Employed key performance indicators (KPIs) to provide a quick overview of critical HR metrics.
-**Comparative Analysis:**
-
-Conducted comparative analysis of attrition with gender, education, age-group, and salary slab.
-**Visualizations:**
-
-Utilized a variety of visualizations including donut charts, bar graphs, column charts, box charts, and tables to present insights in a comprehensive manner.
+**Remove Duplicate Entries:** Identified and removed duplicate entries to maintain data integrity.
+**Create Additional Tables:** Developed an 'Attrition_Count' table to better analyze attrition rates based on various parameters.
+**Dynamic KPIs:** Employed key performance indicators (KPIs) to provide a quick overview of critical HR metrics.
+**Comparative Analysis:** Conducted comparative analysis of attrition with gender, education, age-group, and salary slab.
+**Visualizations:** Utilized a variety of visualizations including donut charts, bar graphs, column charts, box charts, and tables to present insights in a comprehensive manner.
 # Accessing Project Resources
 **Dataset:**
 
